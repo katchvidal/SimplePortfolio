@@ -16,15 +16,23 @@ export const skills = [
     percentage: 80,
   },
   {
-    skill: "React",
-    percentage: 70,
-  },
-  {
     skill: "Next JS",
     percentage: 70,
   },
   {
     skill: "GraphQL",
+    percentage: 80,
+  },
+  {
+    skill: "Docker",
+    percentage: 60,
+  },
+  {
+    skill: "Github Actions",
+    percentage: 60,
+  },
+  {
+    skill: "Microsoft Azure",
     percentage: 80,
   },
   {

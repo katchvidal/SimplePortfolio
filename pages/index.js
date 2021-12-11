@@ -17,18 +17,11 @@ const Index = () => (
               <h1>Jesus Vidal</h1>
               <h3>Full Stack Developer</h3>
               <p>
-                Ingeniero de profesion, desarollador full stack apasianado de la
-                programacion debido al desarrollo de aplicaciones que los
-                usuarios puedan disfrutar y estas seguro de usar en su dia
-                diario. Actualmente me encuentro en constante capacitacion de
-                diferentes tecnologias.
+                Civil engineer by profession, web application developer by
+                passion, passionate about computer science and self-study, I
+                continue learning about implementation in the cloud with Google
+                and Azure
               </p>
-              <button type="button" class="btn btn-info mt-2" value="Twitter">
-                <a href="https://www.facebook.com/katch.vidal?locale=es_LA">
-                  Facebook
-                </a>
-              </button>
-              <br />
 
               <p class="mt-2">
                 <svg
